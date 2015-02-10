@@ -1,3 +1,5 @@
+constant time => use pointer to trace the minmum number!!
+
 4 ways to loop arraylist in java.
 (1)for(int i=0;i<arraylist.size();i++)
 (2)for(int i: arraylist)
