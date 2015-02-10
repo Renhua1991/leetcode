@@ -28,3 +28,6 @@ class MinStack {
         return order.get(order.size()-1);
     }    
 }
+
+
+//exceed the memory. No need to use two arraylist!.
