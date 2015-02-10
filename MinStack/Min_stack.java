@@ -3,7 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 
 public class Min_stack {
-	int pointer=0; //point the minimum one in the order.
+    int pointer=0; //pointer.
     ArrayList<Integer> stack = new ArrayList<Integer>(); //put the integer into the stack.
     
     public void push(int x) { 
