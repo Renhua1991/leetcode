@@ -1,4 +1,5 @@
 common method in Hashtable:
+
 1. containsKey(Object key)
 2. containsValue(Object value)
 3. get(Object key)
