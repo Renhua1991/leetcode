@@ -1,3 +1,4 @@
+
 //math method: Math.abs(x); Math.pow(x, y);
 
 //do not need to store every digit. 
